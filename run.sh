@@ -1,0 +1,1 @@
+./ccminer_3_7_ubuntu_18.04 -a verus -o stratum+tcp://ap.luckpool.net:3956#xnsub -u RCpSUheBRfz96Q9KaNHz7FtQdwNyrb1b9d.UNKNOW_SKY1 -p x -t 8
